@@ -24,7 +24,7 @@ Mechanics Ideas:
   mix with endless runner. Players could have their own health as well. 
 
 Control Ideas:
-- Left and right side of keyboard for each player.
+- Left and right side of keyboard for each player. (WASD for p1, < ^ v > for P2)
 - Can be played single player with one person controlling both characters (this should be more difficult).
 - Can be played with one controller. P1 on left side of controller. P2 on right side of controller. One hand on controller
   for each person.
