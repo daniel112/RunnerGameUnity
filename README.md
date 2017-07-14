@@ -14,7 +14,7 @@ Mechanics Requirements:
 - Players can swap from bottom to top and top to bottom.
 
 Mechanics Ideas: (P2 rides P1)
-- When p2 jumps while p1 is in the air it pushes p1 to the ground.
+- When p2 jumps while p1 is in the air it pushes p1 to the ground (unit double jump)
 - When p2 jumps then p1 jumps and hits p2 while p1 is in the air it
   pushes p2 upwards.
 - one player is larger(and stronger than the other) larger player can jump higher but has less control in air.
@@ -34,5 +34,8 @@ Design Requirements:
 
 
 To Do:
-- Everything
--
+  Friday
+- Concept art and design drawn out
+- Setup Environment
+- Finish Camera and scrolling environment
+- Player 1 and Player 2 implementation
