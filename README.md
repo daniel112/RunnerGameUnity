@@ -20,7 +20,9 @@ Mechanics Ideas:
   pushes p2 upwards.
 - one player is larger(and stronger than the other) larger player can jump higher but has less control in air.
 - one player is smaller than the other can jump decently but has more control in air.
-  
+- Perhaps players have to defend something behind them (aka the thing can take X amt of hits then it dies.. Kinda like a tower defense 
+  mix with endless runner. Players could have their own health as well. 
+
 Control Ideas:
 - Left and right side of keyboard for each player.
 - Can be played single player with one person controlling both characters (this should be more difficult).
@@ -29,9 +31,9 @@ Control Ideas:
 
 Design Requirements:
 - ~~Proper Camera following~~ The scene moves around the player(s). Camera is static.
-- 
+- Permenant Death
 
 
 To Do:
-- sss
+- Everything
 -
