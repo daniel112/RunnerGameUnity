@@ -13,10 +13,9 @@ Mechanics Requirements:
 - Player on bottom controls movement when both are connected.
 - Players can swap from bottom to top and top to bottom.
 
-Mechanics Ideas:
-- p1 is on bottom p2 is on top. When p2 jumps while p1 is in the air
-  it pushes p1 to the ground.
-- p1 is on bottom p2 is on top. When p2 jumps then p1 jumps and hits p2 while p1 is in the air it
+Mechanics Ideas: (P2 rides P1)
+- When p2 jumps while p1 is in the air it pushes p1 to the ground.
+- When p2 jumps then p1 jumps and hits p2 while p1 is in the air it
   pushes p2 upwards.
 - one player is larger(and stronger than the other) larger player can jump higher but has less control in air.
 - one player is smaller than the other can jump decently but has more control in air.
